@@ -1,0 +1,25 @@
+{
+  "generated_date": "2026-11-14",
+  "tool": "image_gen.imagegen",
+  "mode": "built-in",
+  "assets": [
+    {
+      "figure": 6,
+      "file": "07-ai-computing-evolution.png",
+      "placement": "第九章开篇",
+      "type": "AI生成概念插画",
+      "width": 1672,
+      "height": 941,
+      "prompt": "Use case: illustration-story. Asset type: landscape editorial illustration for a Chinese longform business article about NVIDIA's evolution from graphics chips to AI infrastructure. Create one sophisticated magazine illustration, wide 16:9 composition, clearly illustrated rather than a documentary photograph. A continuous circuit-board pathway flows from left to right: a small late-1990s green graphics expansion board and a translucent wireframe 3D game landscape at left, transforms into dense parallel streams of luminous computation at center, then a powerful but realistically proportioned row of data-center server racks with interconnected network cables at right. Tell the progression from components to software platform to integrated computing systems through the visual composition. Charcoal, muted silicon silver, NVIDIA-inspired green highlights, restrained warm light, tactile engraved details and elegant architectural depth. Balanced composition readable on a mobile article, no giant glowing AI brain, no humanoid robots, no financial chart, no logos, no text, no lettering, no dates, no watermark. Conceptual montage only; do not imply an exact engineering schematic or a specific real product."
+    },
+    {
+      "figure": 8,
+      "file": "08-ai-organizational-succession.png",
+      "placement": "终章",
+      "type": "AI生成概念插画",
+      "width": 1672,
+      "height": 941,
+      "prompt": "Use case: illustration-story. Asset type: landscape editorial concept illustration near the ending of a Chinese business article about NVIDIA's founder succession and organizational capability. Create one sophisticated magazine illustration, wide 16:9, same overall aesthetic as a premium business and technology feature: charcoal, silicon silver and restrained luminous green accents, subtle paper and engraved textures, clearly an illustration and not a news photograph. Visual metaphor: at left a single anonymous engineer's hand passes a small illuminated silicon module toward the center; at right several different anonymous engineers' hands support and connect it into a larger, coherent modular computing network, with server racks and precise circuit pathways receding into the background. The emphasis is on knowledge becoming shared organizational capability and continuity of engineering work, not worship of a single leader. Calm, thoughtful, forward-looking, realistic anatomy, natural human scale, carefully controlled lighting. No identifiable people, no Jensen Huang likeness, no suggestion of an actual handover ceremony, no scandal or espionage imagery. No text, no labels, no logos, no watermark."
+    }
+  ]
+}

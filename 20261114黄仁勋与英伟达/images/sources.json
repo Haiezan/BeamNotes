@@ -1,0 +1,95 @@
+[
+  {
+    "file": "01-jensen-huang.jpg",
+    "title": "黄仁勋官方人物照",
+    "source": "https://www.nvidia.com/en-eu/about-nvidia/governance/management-team/jensen-huang/",
+    "credit": "NVIDIA",
+    "rights": "官方人物资料图；未声明开放许可，版权归原权利人。",
+    "urls": [
+      "https://iprsoftwaremedia.com/219/files/202604/f0e9efa72f909f3f08cdd0a48ff92880/69e6b9293d633260eec67804_jensen-1920x1920/jensen-1920x1920_6a7e6ad5-c215-4503-b70d-fe6e5e9de205-prv.jpg?v=6a7e6ad5-c215-4503-b70d-fe6e5e9de205"
+    ],
+    "download_url": "https://iprsoftwaremedia.com/219/files/202604/f0e9efa72f909f3f08cdd0a48ff92880/69e6b9293d633260eec67804_jensen-1920x1920/jensen-1920x1920_6a7e6ad5-c215-4503-b70d-fe6e5e9de205-prv.jpg?v=6a7e6ad5-c215-4503-b70d-fe6e5e9de205",
+    "width": 1920,
+    "height": 1920,
+    "format": "JPEG",
+    "bytes": 2054472
+  },
+  {
+    "file": "02-dennys-2023.jpg",
+    "title": "2023年黄仁勋重返Denny’s餐厅",
+    "source": "https://blogs.nvidia.com/blog/nvidia-dennys-trillion/",
+    "credit": "Don Feria / AP Images for Denny’s，经NVIDIA博客发布",
+    "rights": "摄影版权归原权利人；并非开放许可图片。",
+    "urls": [
+      "https://blogs.nvidia.com/wp-content/uploads/2023/09/Valade-Huang-Dennys-scaled-1280x853.jpg"
+    ],
+    "download_url": "https://blogs.nvidia.com/wp-content/uploads/2023/09/Valade-Huang-Dennys-scaled-1280x853.jpg",
+    "width": 1280,
+    "height": 853,
+    "format": "JPEG",
+    "bytes": 216834
+  },
+  {
+    "file": "03-riva-128.jpg",
+    "title": "RIVA 128实物",
+    "source": "https://commons.wikimedia.org/wiki/File:RIVA_128_NV_GPU.jpg",
+    "credit": "Hyins / Wikimedia Commons",
+    "rights": "Public domain（以来源页声明为准）",
+    "urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/b/b3/RIVA_128_NV_GPU.jpg",
+      "https://www.techspot.com/articles-info/653/images/nvidia-riva-128.jpg"
+    ],
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/RIVA_128_NV_GPU.jpg",
+    "width": 1600,
+    "height": 1200,
+    "format": "JPEG",
+    "bytes": 1606230
+  },
+  {
+    "file": "04-cuda-execution.png",
+    "title": "CUDA内核执行与GPU硬件映射",
+    "source": "https://developer.nvidia.com/blog/cuda-refresher-cuda-programming-model/",
+    "credit": "NVIDIA Technical Blog，Pradeep Gupta，2020年",
+    "rights": "官方技术示意图；未声明开放许可，版权归原权利人。",
+    "urls": [
+      "https://developer.nvidia.com/blog/wp-content/uploads/2020/06/kernel-execution-on-gpu-1-625x438.png"
+    ],
+    "download_url": "https://developer.nvidia.com/blog/wp-content/uploads/2020/06/kernel-execution-on-gpu-1-625x438.png",
+    "width": 625,
+    "height": 438,
+    "format": "PNG",
+    "bytes": 121594
+  },
+  {
+    "file": "05-dgx1-openai-2016.jpg",
+    "title": "2016年向OpenAI交付DGX-1",
+    "source": "https://blogs.nvidia.co.jp/blog/first-ai-supercomputer-openai-elon-musk-deep-learning/",
+    "credit": "NVIDIA日本官方博客，2016年8月16日",
+    "rights": "官方历史照片；未声明开放许可，版权归原权利人。",
+    "urls": [
+      "https://blogs.nvidia.co.jp/wp-content/uploads/sites/11/2016/08/hdr-first-ai-supercomputer-openai-elon-musk-deep-learning.jpg",
+      "https://blogs.nvidia.co.jp/wp-content/uploads/2016/08/15OpenAI_inside_crowd_web-676x507.jpg"
+    ],
+    "download_url": "https://blogs.nvidia.co.jp/wp-content/uploads/sites/11/2016/08/hdr-first-ai-supercomputer-openai-elon-musk-deep-learning.jpg",
+    "width": 720,
+    "height": 340,
+    "format": "JPEG",
+    "bytes": 91524
+  },
+  {
+    "file": "06-vera-rubin-nvl72.jpg",
+    "title": "Vera Rubin NVL72机柜产品展示",
+    "source": "https://www.nvidia.com/zh-tw/data-center/technologies/rubin/",
+    "credit": "NVIDIA",
+    "rights": "官方产品展示图；未声明开放许可，版权归原权利人。",
+    "urls": [
+      "https://www.nvidia.com/content/nvidiaGDC/tw/zh_TW/data-center/technologies/rubin/_jcr_content/root/responsivegrid/nv_container/nv_container_copy_co/nv_image.coreimg.jpeg/1782108665718/nvidia-01-vera-rubin-nvl72-ari-1920x1080.jpeg",
+      "https://www.nvidia.com/content/dam/en-zz/solutions/data-center/vera-rubin-nvl72/nvidia-vera-rubin-nvl72-og.jpg"
+    ],
+    "download_url": "https://www.nvidia.com/content/nvidiaGDC/tw/zh_TW/data-center/technologies/rubin/_jcr_content/root/responsivegrid/nv_container/nv_container_copy_co/nv_image.coreimg.jpeg/1782108665718/nvidia-01-vera-rubin-nvl72-ari-1920x1080.jpeg",
+    "width": 1280,
+    "height": 720,
+    "format": "JPEG",
+    "bytes": 54211
+  }
+]

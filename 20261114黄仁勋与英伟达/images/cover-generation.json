@@ -1,0 +1,11 @@
+{
+  "generated_date": "2026-11-14",
+  "tool": "image_gen.imagegen",
+  "mode": "built-in",
+  "file": "00-cover-ai-v1.png",
+  "width": 1922,
+  "height": 818,
+  "reference_image": "01-jensen-huang.jpg",
+  "reference_source": "https://www.nvidia.com/en-eu/about-nvidia/governance/management-team/jensen-huang/",
+  "prompt": "Use case: illustration-story / editorial cover design. Create one polished Chinese business feature cover, ultra-wide landscape approximately 2.35:1, suitable as a WeChat article cover. Reference image is a likeness reference for Jensen Huang, not a target to reproduce verbatim. Preserve his recognizable facial features, gray hair, glasses, and black leather jacket, rendering him as a sophisticated engraved / painterly editorial portrait, clearly an illustration rather than a documentary photo. Theme: NVIDIA's 33 years of transformation and the question of organizational continuity after its founder. Composition: Huang's large half-length portrait on the left third, facing slightly inward. Lower background flows from a small vintage graphics board through elegant parallel green circuit pathways into data-center server racks on the right. Right half has a quiet dark charcoal field for superbly legible typography. Premium financial magazine aesthetic: textured graphite, warm silver, restrained NVIDIA-inspired green, subtle warm rim light, no sensationalism, precise composition, confident whitespace. Include exactly these Chinese texts, typeset cleanly with correct characters, no other text: primary headline '黄仁勋与英伟达' in large warm-white bold contemporary Chinese sans serif; secondary line '三十三年转型' smaller and green; final line '下一程，谁来掌舵？' in warm white. Place all three lines on the right with generous line spacing, strong hierarchy, and safe margins. Keep face and headlines inside central 85 percent of canvas so modest cover cropping remains safe. No company logos, no watermark, no stock charts, no flags, no spy or scandal imagery, no fake news event. This is an AI conceptual editorial cover, not a real historical scene."
+}
